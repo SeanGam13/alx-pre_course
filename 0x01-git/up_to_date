@@ -1,2 +1,1 @@
-emacs <filename>
-emacs up_to_date
+git pull origin
